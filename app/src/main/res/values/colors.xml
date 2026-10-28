@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="galaxy_bg">#090B16</color>
+    <color name="galaxy_card">#15182A</color>
+    <color name="galaxy_accent">#8B7CFF</color>
+    <color name="galaxy_text">#F5F3FF</color>
+    <color name="galaxy_muted">#9296AD</color>
+    <color name="galaxy_success">#65E6A5</color>
+    <color name="galaxy_makeup">#62B8FF</color>
+</resources>
