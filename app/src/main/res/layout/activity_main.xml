@@ -6,7 +6,7 @@
     <TextView android:id="@+id/title" android:text="Galaxy" android:textColor="#F5F3FF"
         android:textSize="32sp" android:textStyle="bold" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
     <TextView android:id="@+id/subtitle" android:text="让坚持留下轨迹" android:textColor="#9296AD"
-        android:textSize="14sp" android:textLayout_marginTop="2dp" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        android:textSize="14sp" android:layout_marginTop="2dp" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
 
     <LinearLayout android:orientation="horizontal" android:layout_marginTop="20dp"
         android:layout_width="match_parent" android:layout_height="wrap_content">
